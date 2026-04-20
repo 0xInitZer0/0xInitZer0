@@ -120,7 +120,6 @@ I operate in controlled lab environments (FlareVM, Kali Linux, CAPEv2) to safely
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mra.off.working@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Init_Zer0)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/InitZer0)
 
 </div>
 
@@ -135,6 +134,62 @@ If my research and tools have helped you, consider supporting my work:
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/InitZer0)
 
 *Your support helps me conduct deeper research and contribute more to the security community.*
+
+</div>
+
+---
+
+## 🏅 CERTIFICATIONS & ACHIEVEMENTS
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║              CREDENTIALS & ACCOMPLISHMENTS                    ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+### Certifications & Diplomas
+
+<table align="center">
+<tr>
+<td align="center" width="200">
+<img src="YOUR_DIPLOMA_URL_1" alt="Diploma 1" width="180" height="auto">
+<br/>
+<b>Certification #1</b>
+<br/>
+<sub>Year</sub>
+</td>
+<td align="center" width="200">
+<img src="YOUR_DIPLOMA_URL_2" alt="Diploma 2" width="180" height="auto">
+<br/>
+<b>Certification #2</b>
+<br/>
+<sub>Year</sub>
+</td>
+<td align="center" width="200">
+<img src="YOUR_DIPLOMA_URL_3" alt="Diploma 3" width="180" height="auto">
+<br/>
+<b>Certification #3</b>
+<br/>
+<sub>Year</sub>
+</td>
+</tr>
+</table>
+
+### Achievements & Awards
+
+- 🥇 **Top Achiever** — [Certificate Link](URL)
+- 🥈 **Advanced Researcher** — [Certificate Link](URL)  
+- 🥉 **Security Expert** — [Certificate Link](URL)
+
+### Competition Highlights
+
+| 🎯 Event | 📅 Date | 🏆 Result |
+|:---:|:---:|:---:|
+| CTF Competition | 2024 | Top 10 |
+| Hacking Challenge | 2024 | Winner |
+| Security Conference | 2023 | Participant |
 
 </div>
 
