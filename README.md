@@ -30,7 +30,7 @@
 │ [✓] CALL_SIGN: InitZer0                                     │
 │ [✓] ROLE: Malware Analyst & Security Researcher             │
 │ [✓] EXPERIENCE: 2 years Information Security                │
-│ [✓] LOCATION: Minsk, Belarus 🇧🇾                             │
+│ [✓] LOCATION: Minsk, Belarus                                │
 │ [✓] STATUS: Active & Available for Collaboration            │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -130,8 +130,8 @@ I operate in controlled lab environments (FlareVM, Kali Linux, CAPE v2) to safel
 ┌──────────────────────────────────────────────────────────┐
 │ "Security is not a product, it's a mindset."             │
 │                                                          │
-│ Every vulnerability is a learning opportunity.          │
-│ Every patch is a victory in the eternal cyber war.      │
+│ Every vulnerability is a learning opportunity.           │
+│ Every patch is a victory in the eternal cyber war.       │
 └──────────────────────────────────────────────────────────┘
 ```
 
