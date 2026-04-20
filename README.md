@@ -13,9 +13,9 @@
 ![Threat Level](https://img.shields.io/badge/Threat%20Level-CRITICAL-FF0000?style=flat-square)
 ![Security](https://img.shields.io/badge/Specialization-Infosec-00FFFF?style=flat-square)
 
-**`> Reverse Engineer | Binary Exploiter | CTF Competitor | Threat Analyst`**
+**`> Reverse Engineer | CTF Competitor | Malware Analyst`**
 
-*🔐 Belarus | 2 Years XP | Specialized in Malware Analysis & Binary Exploitation*
+*🔐 Belarus | 2 Years XP | Specialized in Malware Analysis*
 
 </div>
 
@@ -24,15 +24,15 @@
 ## 💻 SYSTEM PROFILE
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│ >> INITIALIZING OPERATOR PROFILE...                         │
-├─────────────────────────────────────────────────────────────┤
-│ [✓] CALL_SIGN: InitZer0                                     │
-│ [✓] ROLE: Malware Analyst & Security Researcher             │
-│ [✓] EXPERIENCE: 2 years Information Security                │
-│ [✓] LOCATION: Minsk, Belarus                                │
-│ [✓] STATUS: Active & Available for Collaboration            │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│ >> INITIALIZING OPERATOR PROFILE...                          │
+├──────────────────────────────────────────────────────────────┤
+│ [✓] CALL_SIGN: InitZer0                                      │
+│ [✓] ROLE: Malware Analyst & Security Researcher              │
+│ [✓] EXPERIENCE: 2 years Information Security                 │
+│ [✓] LOCATION: Minsk, Belarus                                 │
+│ [✓] STATUS: Inactive                                         │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -41,12 +41,12 @@
 
 A dedicated **Malware Analyst** on a mission to dissect, understand, and combat sophisticated malware. My expertise spans:
 
-- 🔬 **Static & Dynamic Analysis** — IDA Pro, Ghidra, x64dbg
+- 🔬 **Static & Dynamic Analysis** — IDA Pro, Ghidra, x64dbg...
 - ⚙️ **Reverse Engineering** — Binary decompilation, protocol analysis, vulnerability research
-- 🎪 **CTF Mastery** — Pwning, Web Security, Crypto, Forensics
-- 🛡️ **Defensive Security** — Incident response, threat intel, vulnerability assessment
+- 🎪 **CTF Mastery** — RE, Web Security, Infra
+- 🛡️ **Defensive Security** — Vulnerability assessment
 
-I operate in controlled lab environments (FlareVM, Kali Linux, CAPE v2) to safely analyze threats while contributing to the security community.
+I operate in controlled lab environments (FlareVM, Kali Linux, CAPEv2) to safely analyze threats while contributing to the security community.
 
 ---
 
@@ -69,11 +69,10 @@ I operate in controlled lab environments (FlareVM, Kali Linux, CAPE v2) to safel
 
 | 🔧 CATEGORY | 📦 TOOLS |
 |:---:|:---|
-| **Virtualization** | VMware (FlareVM, Kali Linux, CAPE v2) |
+| **Virtualization** | VMware (FlareVM, Kali Linux, CAPEv2) |
 | **Reverse Engineering** | IDA Pro • Ghidra • x64dbg • Radare2 |
 | **Analysis & Monitoring** | Wireshark • API Monitor • Process Hacker |
 | **Exploitation** | pwntools • Metasploit • Burp Suite |
-| **Forensics & Incident Response** | FTK • Volatility • ELK Stack |
 | **Low-Level Debugging** | NASM • GDB • WinDbg • Binary Patching |
 
 </div>
@@ -91,7 +90,7 @@ I operate in controlled lab environments (FlareVM, Kali Linux, CAPE v2) to safel
 
 </div>
 
-> **CTF Stats:** Actively competing across multiple platforms, specializing in PWN, Reverse Engineering, and Forensics challenges.
+> **CTF Stats:** Actively competing across multiple platforms, specializing in Reverse Engineering, Web and Crypto challenges.
 
 ---
 
@@ -102,11 +101,14 @@ I operate in controlled lab environments (FlareVM, Kali Linux, CAPE v2) to safel
 ### GitHub Analytics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=InitZer0&theme=dark&bg_color=0d1117&title_color=00FF00&text_color=00FF00&icon_color=00FFFF&border_color=1F6FEB&show_icons=true&include_all_commits=true&count_private=true)
 
-### Programming Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InitZer0&theme=dark&bg_color=0d1117&title_color=00FF00&text_color=00FF00&layout=compact&border_color=1F6FEB)
+### Programming Languages Distribution
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InitZer0&theme=dark&bg_color=0d1117&title_color=00FF00&text_color=00FF00&border_color=1F6FEB&layout=donut)
 
-### Activity Streak
+### Commit Activity Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=InitZer0&theme=dark&background=0d1117&border=1F6FEB&ring=00FF00&fire=FF0000&currStreakLabel=00FFFF)
+
+### Repository Stats
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=InitZer0&theme=github-dark&bg_color=0d1117&color=00FF00&line=00FFFF&point=FF0000&hide_border=true)
 
 </div>
 
@@ -124,16 +126,17 @@ I operate in controlled lab environments (FlareVM, Kali Linux, CAPE v2) to safel
 
 ---
 
-## 🛡️ SECURITY PHILOSOPHY
+## 💰 SUPPORT ME
 
-```
-┌──────────────────────────────────────────────────────────┐
-│ "Security is not a product, it's a mindset."             │
-│                                                          │
-│ Every vulnerability is a learning opportunity.           │
-│ Every patch is a victory in the eternal cyber war.       │
-└──────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+If my research and tools have helped you, consider supporting my work:
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/InitZer0)
+
+*Your support helps me conduct deeper research and contribute more to the security community.*
+
+</div>
 
 ---
 
@@ -144,5 +147,11 @@ I operate in controlled lab environments (FlareVM, Kali Linux, CAPE v2) to safel
 ![Profile Views](https://komarev.com/ghpvc/?username=InitZer0&color=00FF00&style=flat-square)
 
 ⭐ *If you find my work interesting, feel free to star it!*
+
+---
+
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXp3NW5tNmd3aWk2cmg2ajN0ZjNwMWE4YTBnbnpmdjJnYjJzd2dxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B3ML5lqY80NYkQZPKY/giphy.gif" width="100"/>
+</div>
 
 </div>
