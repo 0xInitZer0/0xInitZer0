@@ -1,8 +1,8 @@
 ```
-╔════════════════════════════════════════════════════════════════╗
-║           ⚠️  MALWARE ANALYST | INFOSEC SPECIALIST ⚠️         ║
-║                      >> InitZer0 <<                            ║
-╚════════════════════════════════════════════════════════════════╝
+                                                            ╔════════════════════════════════════════════════════════════════╗
+                                                            ║           ⚠️  MALWARE ANALYST | INFOSEC SPECIALIST ⚠️         ║
+                                                            ║                      >> InitZer0 <<                            ║
+                                                            ╚════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
@@ -90,7 +90,7 @@ I operate in controlled lab environments (FlareVM, Kali Linux, CAPEv2) to safely
 
 </div>
 
-> **CTF Stats:** Actively competing across multiple platforms, specializing in Reverse Engineering, Web and Crypto challenges.
+> **CTF Stats:** Actively competing across multiple platforms, specializing in Reverse Engineering, Web, Infra and Crypto challenges.
 
 ---
 
@@ -129,9 +129,9 @@ I operate in controlled lab environments (FlareVM, Kali Linux, CAPEv2) to safely
 
 <div align="center">
 
-If my research and tools have helped you, consider supporting my work:
+If my research and tools have helped you, consider supporting my work (FAKE LINK):
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/InitZer0)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/---)
 
 *Your support helps me conduct deeper research and contribute more to the security community.*
 
@@ -143,32 +143,26 @@ If my research and tools have helped you, consider supporting my work:
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║              CREDENTIALS & ACCOMPLISHMENTS                    ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
 ### Certifications & Diplomas
 
 <table align="center">
 <tr>
 <td align="center" width="200">
-<img src="YOUR_DIPLOMA_URL_1" alt="Diploma 1" width="180" height="auto">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQahe3JBpFLdUDysSl9S9gI6xnhHGiDNV4w&s" alt="Diploma 1" width="180" height="auto">
 <br/>
 <b>Certification #1</b>
 <br/>
 <sub>Year</sub>
 </td>
 <td align="center" width="200">
-<img src="YOUR_DIPLOMA_URL_2" alt="Diploma 2" width="180" height="auto">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQahe3JBpFLdUDysSl9S9gI6xnhHGiDNV4w&s" alt="Diploma 2" width="180" height="auto">
 <br/>
 <b>Certification #2</b>
 <br/>
 <sub>Year</sub>
 </td>
 <td align="center" width="200">
-<img src="YOUR_DIPLOMA_URL_3" alt="Diploma 3" width="180" height="auto">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQahe3JBpFLdUDysSl9S9gI6xnhHGiDNV4w&s" alt="Diploma 3" width="180" height="auto">
 <br/>
 <b>Certification #3</b>
 <br/>
@@ -187,21 +181,11 @@ If my research and tools have helped you, consider supporting my work:
 
 | 🎯 Event | 📅 Date | 🏆 Result |
 |:---:|:---:|:---:|
-| CTF Competition | 2024 | Top 10 |
-| Hacking Challenge | 2024 | Winner |
-| Security Conference | 2023 | Participant |
+| LATER | 2024 | Top 10 |
+| LATER | 2024 | Winner |
+| LATER | 2023 | Participant |
 
 </div>
-
----
-
-<div align="center">
-
-**💡 Always learning. Always evolving. Always defending.**
-
-![Profile Views](https://komarev.com/ghpvc/?username=InitZer0&color=00FF00&style=flat-square)
-
-⭐ *If you find my work interesting, feel free to star it!*
 
 ---
 
