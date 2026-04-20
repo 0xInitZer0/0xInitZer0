@@ -173,9 +173,9 @@ If my research and tools have helped you, consider supporting my work (FAKE LINK
 
 ### Achievements & Awards
 
-** 🥇 **Top Achiever** — [Certificate Link](URL)  **
-** 🥈 **Advanced Researcher** — [Certificate Link](URL)  **
-** 🥉 **Security Expert** — [Certificate Link](URL)  **
+**🥇 Top Achiever — [Certificate Link](URL)**
+**🥈 Advanced Researcher — [Certificate Link](URL)**
+**🥉 Security Expert — [Certificate Link](URL)**
 
 ### Competition Highlights
 
