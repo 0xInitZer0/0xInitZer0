@@ -148,34 +148,34 @@ If my research and tools have helped you, consider supporting my work (FAKE LINK
 <table align="center">
 <tr>
 <td align="center" width="200">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQahe3JBpFLdUDysSl9S9gI6xnhHGiDNV4w&s" alt="Diploma 1" width="180" height="auto">
+<img src="https://github.com/0xInitZer0/0xInitZer0/blob/main/bank_RF_2026.jpg" alt="Кибербезопасность в финансах" width="180" height="auto">
 <br/>
 <b>Certification #1</b>
 <br/>
-<sub>Year</sub>
+<sub>Year - 2026</sub>
 </td>
 <td align="center" width="200">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQahe3JBpFLdUDysSl9S9gI6xnhHGiDNV4w&s" alt="Diploma 2" width="180" height="auto">
+<img src="https://github.com/0xInitZer0/0xInitZer0/blob/main/bugCTF22.png" alt="BugCTF 2026 status" width="180" height="auto">
 <br/>
 <b>Certification #2</b>
 <br/>
-<sub>Year</sub>
+<sub>Year - 2026</sub>
 </td>
 <td align="center" width="200">
 <img src="https://stepik.org/certificate/4c3d51cf8fbbde2dbec9dae1dc2797d4265b5124.png?language=en&resolution=low" alt="C++ basics" width="180" height="auto">
 <br/>
 <b>Certification #3</b>
 <br/>
-<sub>Year</sub>
+<sub>Year - 2024</sub>
 </td>
 </tr>
 </table>
 
 ### Achievements & Awards
 
-**🥇 Top Achiever — [Certificate Link](URL)**
-**🥈 Advanced Researcher — [Certificate Link](URL)**
-**🥉 Security Expert — [Certificate Link](URL)**
+**🥇 Top Achiever LATER — [Certificate Link](URL)**
+**🥈 Advanced Researcher LATER — [Certificate Link](URL)**
+**🥉 Security Expert LATER — [Certificate Link](URL)**
 
 ### Competition Highlights
 
