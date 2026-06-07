@@ -162,7 +162,7 @@ If my research and tools have helped you, consider supporting my work (FAKE LINK
 <sub>Year</sub>
 </td>
 <td align="center" width="200">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQahe3JBpFLdUDysSl9S9gI6xnhHGiDNV4w&s" alt="Diploma 3" width="180" height="auto">
+<img src="https://stepik.org/certificate/4c3d51cf8fbbde2dbec9dae1dc2797d4265b5124.png?language=en&resolution=low" alt="C++ basics" width="180" height="auto">
 <br/>
 <b>Certification #3</b>
 <br/>
